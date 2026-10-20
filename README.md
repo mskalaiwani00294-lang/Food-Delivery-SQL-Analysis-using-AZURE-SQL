@@ -74,6 +74,10 @@ The SQL queries helped transform database records into meaningful business insig
 This project improved my practical knowledge of SQL and Azure SQL Database. I learned how to create relational tables, define primary and foreign keys, insert data, join multiple tables, and use aggregate functions.
 
 The analysis demonstrates how SQL can help food delivery businesses understand customer behavior, monitor revenue, evaluate restaurant performance, and make data-driven decisions.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/067b4d5a-c977-4cf6-9108-69f4e64cfe14" />
+
+Azure web page Link
+https://portal.azure.com/#@mskalaiwani00294gmail.onmicrosoft.com/resource/subscriptions/a0072d9c-66d4-420d-8467-0f02f181042f/resourceGroups/food_deliveryDB/providers/Microsoft.Sql/servers/kalaiadmin/databases/food-delivery-DB/queryEditor
 
 ## 👨‍💻 Author
 
